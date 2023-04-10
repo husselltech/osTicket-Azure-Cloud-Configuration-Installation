@@ -117,4 +117,4 @@ Finally, we will clean up some files. Go ahead and delete C:\inetpub\wwwroot\osT
 
 ## Summary
 
-We have set up all the necessary tools to begin using the osTicket software. osTicket is an open-source helpdesk suite with a variety of features. This lab consisted of the following technologies: Microsoft Azure Cloud/Virtual Machines, Remote Destop, Internet Information Services, PHP, SQL, C++, and osTicket. In the next lab/tutorial we will configure osTicket for a SOHO setting.
+We have set up all the necessary tools to begin using the osTicket software. osTicket is an open-source helpdesk suite with a variety of features. This lab consisted of the following technologies: Microsoft Azure Cloud/Virtual Machines, Remote Desktop, Internet Information Services, PHP, SQL, C++, and osTicket. In the next lab/tutorial we will configure osTicket for a SOHO setting.
