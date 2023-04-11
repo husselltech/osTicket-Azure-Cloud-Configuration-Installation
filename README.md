@@ -2,6 +2,8 @@
 
 ## osTicket Lab & Tutorial 1: Azure Cloud Configuration and Installation
 
+![osticket thumb png 6b3b5efa4e131f26aa85e446c89e0591](https://user-images.githubusercontent.com/114452968/231029106-6d310402-66e5-4e00-8e3f-83ff30c0b2de.png)
+
 For the purpose of this lab, we will assume you know how to access Microsoft Azure for the purposes of starting up a Virtual Machine. If you need help setting up the basics of Azure please refer to my Active Directory Lab here: https://github.com/husselltech/AzureADLab
 
 Make sure you create a Resource Group and your Virtual Machine needs to have a minimum of 4 (four) CPU’s. I will be running Windows 10 Pro version 21H2. Once the Virtual Machine is deployed, in Azure find and copy the public IPv4 address of your VM. From your Windows search bar find your Remote Desktop Connection app and connect to your VM.
