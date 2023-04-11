@@ -1,6 +1,6 @@
-# osTicket-Lab-Tutorial-1
+# osTicket-Azure-Cloud-Configuration-&-Installation
 
-## osTicket Lab & Tutorial 1: Azure Cloud Configuration and Installation
+## osTicket: Azure Cloud Configuration and Installation
 
 ![osticket thumb png 6b3b5efa4e131f26aa85e446c89e0591](https://user-images.githubusercontent.com/114452968/231029106-6d310402-66e5-4e00-8e3f-83ff30c0b2de.png)
 
